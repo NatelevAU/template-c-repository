@@ -1,6 +1,6 @@
 .PHONY: clean
 
-BIN = binName
+BIN = main
 
 OBJS = src/*.c
 
