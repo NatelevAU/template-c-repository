@@ -2,7 +2,7 @@
 
 BIN = binName
 
-OBJS = *.c
+OBJS = src/*.c
 
 CC = gcc
 CFLAGS = -I . \
