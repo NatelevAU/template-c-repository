@@ -1,6 +1,7 @@
 {
     "files.insertFinalNewline": true,
     "files.associations": {
-        "main.h": "c"
+        "*.h": "c",
+        "*.c": "c"
     }
 }
